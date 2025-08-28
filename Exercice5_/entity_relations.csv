@@ -1,0 +1,50 @@
+entity1,entity2,relation,context,full_context
+Président Ibrahim Traoré,Ouagadougou,RENCONTRE,rencontre les leaders de,Le Président Ibrahim Traoré rencontre les leaders de Ouagadougou pour discuter de la sécurité nationale
+Président Ibrahim Traoré,po,RENCONTRE,rencontre les leaders de ouagadougou,Le Président Ibrahim Traoré rencontre les leaders de Ouagadougou pour discuter de la sécurité nationale
+Président Ibrahim Traoré,Ouagadougou,RENCONTRE,rencontre les leaders de,Le Président Ibrahim Traoré rencontre les leaders de Ouagadougou pour discuter de la sécurité nationale
+Ouagadougou,po,RENCONTRE,,Le Président Ibrahim Traoré rencontre les leaders de Ouagadougou pour discuter de la sécurité nationale
+Ouagadougou,Ouagadougou,RENCONTRE,,Le Président Ibrahim Traoré rencontre les leaders de Ouagadougou pour discuter de la sécurité nationale
+po,Ouagadougou,RENCONTRE,,Le Président Ibrahim Traoré rencontre les leaders de Ouagadougou pour discuter de la sécurité nationale
+Forces Armées,Burkina Faso,LOCALISATION,nationales du,Les Forces Armées Nationales du Burkina Faso lancent une opération dans la région du Sahel
+Forces Armées,Sahel,LOCALISATION,nationales du burkina faso lancent une opération dans la région du,Les Forces Armées Nationales du Burkina Faso lancent une opération dans la région du Sahel
+Forces Armées,Sahel,LOCALISATION,nationales du burkina faso lancent une opération dans la région du,Les Forces Armées Nationales du Burkina Faso lancent une opération dans la région du Sahel
+Forces Armées,Forces Armées Nationales,LOCALISATION,,Les Forces Armées Nationales du Burkina Faso lancent une opération dans la région du Sahel
+Burkina Faso,Sahel,LOCALISATION,lancent une opération dans la région du,Les Forces Armées Nationales du Burkina Faso lancent une opération dans la région du Sahel
+Burkina Faso,Sahel,LOCALISATION,lancent une opération dans la région du,Les Forces Armées Nationales du Burkina Faso lancent une opération dans la région du Sahel
+Burkina Faso,Forces Armées Nationales,LOCALISATION,,Les Forces Armées Nationales du Burkina Faso lancent une opération dans la région du Sahel
+Sahel,Sahel,LOCALISATION,,Les Forces Armées Nationales du Burkina Faso lancent une opération dans la région du Sahel
+Sahel,Forces Armées Nationales,LOCALISATION,,Les Forces Armées Nationales du Burkina Faso lancent une opération dans la région du Sahel
+Sahel,Forces Armées Nationales,LOCALISATION,,Les Forces Armées Nationales du Burkina Faso lancent une opération dans la région du Sahel
+Ministre de l'Agriculture,Centre,VISITE,visite les provinces du,Le Ministre de l'Agriculture visite les provinces du Centre et de l'Est pour évaluer la production céréalière
+Ministre de l'Agriculture,Est,VISITE,visite les provinces du centre et de l',Le Ministre de l'Agriculture visite les provinces du Centre et de l'Est pour évaluer la production céréalière
+Ministre de l'Agriculture,Est,VISITE,visite les provinces du centre et de l',Le Ministre de l'Agriculture visite les provinces du Centre et de l'Est pour évaluer la production céréalière
+Ministre de l'Agriculture,Centre,VISITE,visite les provinces du,Le Ministre de l'Agriculture visite les provinces du Centre et de l'Est pour évaluer la production céréalière
+Ministre de l'Agriculture,po,VISITE,visite les provinces du centre et de l'est,Le Ministre de l'Agriculture visite les provinces du Centre et de l'Est pour évaluer la production céréalière
+Centre,Est,VISITE,et de l',Le Ministre de l'Agriculture visite les provinces du Centre et de l'Est pour évaluer la production céréalière
+Centre,Est,VISITE,et de l',Le Ministre de l'Agriculture visite les provinces du Centre et de l'Est pour évaluer la production céréalière
+Centre,Centre,VISITE,,Le Ministre de l'Agriculture visite les provinces du Centre et de l'Est pour évaluer la production céréalière
+Centre,po,VISITE,et de l'est,Le Ministre de l'Agriculture visite les provinces du Centre et de l'Est pour évaluer la production céréalière
+Est,Est,VISITE,,Le Ministre de l'Agriculture visite les provinces du Centre et de l'Est pour évaluer la production céréalière
+Est,Centre,VISITE,,Le Ministre de l'Agriculture visite les provinces du Centre et de l'Est pour évaluer la production céréalière
+Est,po,VISITE,,Le Ministre de l'Agriculture visite les provinces du Centre et de l'Est pour évaluer la production céréalière
+Est,Centre,VISITE,,Le Ministre de l'Agriculture visite les provinces du Centre et de l'Est pour évaluer la production céréalière
+Est,po,VISITE,,Le Ministre de l'Agriculture visite les provinces du Centre et de l'Est pour évaluer la production céréalière
+Centre,po,VISITE,et de l'est,Le Ministre de l'Agriculture visite les provinces du Centre et de l'Est pour évaluer la production céréalière
+Union,Ouagadougou,APPARTENANCE,africaine arrive à,Une délégation de l'Union Africaine arrive à Ouagadougou pour des discussions diplomatiques
+Union,po,APPARTENANCE,africaine arrive à ouagadougou,Une délégation de l'Union Africaine arrive à Ouagadougou pour des discussions diplomatiques
+Union,Ouagadougou,APPARTENANCE,africaine arrive à,Une délégation de l'Union Africaine arrive à Ouagadougou pour des discussions diplomatiques
+Ouagadougou,po,APPARTENANCE,,Une délégation de l'Union Africaine arrive à Ouagadougou pour des discussions diplomatiques
+Ouagadougou,Ouagadougou,APPARTENANCE,,Une délégation de l'Union Africaine arrive à Ouagadougou pour des discussions diplomatiques
+po,Ouagadougou,APPARTENANCE,,Une délégation de l'Union Africaine arrive à Ouagadougou pour des discussions diplomatiques
+Soum,Soum,LOCALISATION,,Incident sécuritaire rapporté dans la province du Soum impliquant des groupes armés non identifiés
+Soum,po,LOCALISATION,,Incident sécuritaire rapporté dans la province du Soum impliquant des groupes armés non identifiés
+Soum,po,LOCALISATION,,Incident sécuritaire rapporté dans la province du Soum impliquant des groupes armés non identifiés
+Dori,Sahel,LOCALISATION,", dans la région du","Attaque contre un convoi humanitaire près de Dori, dans la région du Sahel"
+Dori,Sahel,LOCALISATION,", dans la région du","Attaque contre un convoi humanitaire près de Dori, dans la région du Sahel"
+Dori,Dori,LOCALISATION,,"Attaque contre un convoi humanitaire près de Dori, dans la région du Sahel"
+Sahel,Sahel,LOCALISATION,,"Attaque contre un convoi humanitaire près de Dori, dans la région du Sahel"
+Sahel,Dori,LOCALISATION,,"Attaque contre un convoi humanitaire près de Dori, dans la région du Sahel"
+Sahel,Dori,LOCALISATION,,"Attaque contre un convoi humanitaire près de Dori, dans la région du Sahel"
+province de l'Oudalan,Niger,LOCALISATION,", zone frontalière avec le","Violence signalée dans la province de l'Oudalan, zone frontalière avec le Niger"
+province de l'Oudalan,Oudalan,LOCALISATION,,"Violence signalée dans la province de l'Oudalan, zone frontalière avec le Niger"
+Niger,Oudalan,LOCALISATION,,"Violence signalée dans la province de l'Oudalan, zone frontalière avec le Niger"

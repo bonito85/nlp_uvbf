@@ -1,0 +1,7 @@
+sentence,relation_type,relation_description
+Le Président Ibrahim Traoré rencontre les leaders de Ouagadougou pour discuter de la sécurité nationale,SVO,Président -[rencontre]-> leaders
+Le Président Ibrahim Traoré rencontre les leaders de Ouagadougou pour discuter de la sécurité nationale,MODIFIER,nationale modifie sécurité
+L'Assemblée Nationale vote une nouvelle loi sur le développement rural à Bobo-Dioulasso,SVO,Assemblée -[vote]-> loi
+L'Assemblée Nationale vote une nouvelle loi sur le développement rural à Bobo-Dioulasso,MODIFIER,Nationale modifie Assemblée
+L'Assemblée Nationale vote une nouvelle loi sur le développement rural à Bobo-Dioulasso,MODIFIER,nouvelle modifie loi
+L'Assemblée Nationale vote une nouvelle loi sur le développement rural à Bobo-Dioulasso,MODIFIER,rural modifie développement

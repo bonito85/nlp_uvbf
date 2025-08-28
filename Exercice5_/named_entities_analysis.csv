@@ -1,0 +1,34 @@
+text_source,entity_text,entity_type,entity_description,start_pos,end_pos
+Le Président Ibrahim Traoré rencontre les leaders de Ouagadougou pour discuter de la sécurité nation...,Président Ibrahim Traoré,PER,Named person or family.,3,27
+Le Président Ibrahim Traoré rencontre les leaders de Ouagadougou pour discuter de la sécurité nation...,Ouagadougou,LOC,"Non-GPE locations, mountain ranges, bodies of water",53,64
+Le Président Ibrahim Traoré rencontre les leaders de Ouagadougou pour discuter de la sécurité nation...,po,LOC_BURKINA,Lieu spécifique au Burkina Faso,65,67
+Le Président Ibrahim Traoré rencontre les leaders de Ouagadougou pour discuter de la sécurité nation...,Ouagadougou,LOC_BURKINA,Lieu spécifique au Burkina Faso,53,64
+Les Forces Armées Nationales du Burkina Faso lancent une opération dans la région du Sahel...,Forces Armées,ORG,"Companies, agencies, institutions, etc.",4,17
+Les Forces Armées Nationales du Burkina Faso lancent une opération dans la région du Sahel...,Burkina Faso,LOC,"Non-GPE locations, mountain ranges, bodies of water",32,44
+Les Forces Armées Nationales du Burkina Faso lancent une opération dans la région du Sahel...,Sahel,LOC,"Non-GPE locations, mountain ranges, bodies of water",85,90
+Les Forces Armées Nationales du Burkina Faso lancent une opération dans la région du Sahel...,Sahel,LOC_BURKINA,Lieu spécifique au Burkina Faso,85,90
+Les Forces Armées Nationales du Burkina Faso lancent une opération dans la région du Sahel...,Forces Armées Nationales,ORG_BURKINA,Organisation burkinabè,4,28
+L'Assemblée Nationale vote une nouvelle loi sur le développement rural à Bobo-Dioulasso...,Assemblée Nationale,ORG,"Companies, agencies, institutions, etc.",2,21
+L'Assemblée Nationale vote une nouvelle loi sur le développement rural à Bobo-Dioulasso...,Bobo-Dioulasso,LOC,"Non-GPE locations, mountain ranges, bodies of water",73,87
+L'Assemblée Nationale vote une nouvelle loi sur le développement rural à Bobo-Dioulasso...,Bobo-Dioulasso,LOC_BURKINA,Lieu spécifique au Burkina Faso,73,87
+L'Assemblée Nationale vote une nouvelle loi sur le développement rural à Bobo-Dioulasso...,Assemblée Nationale,ORG_BURKINA,Organisation burkinabè,2,21
+Le Ministre de l'Agriculture visite les provinces du Centre et de l'Est pour évaluer la production c...,Ministre de l'Agriculture,ORG,"Companies, agencies, institutions, etc.",3,28
+Le Ministre de l'Agriculture visite les provinces du Centre et de l'Est pour évaluer la production c...,Centre,LOC,"Non-GPE locations, mountain ranges, bodies of water",53,59
+Le Ministre de l'Agriculture visite les provinces du Centre et de l'Est pour évaluer la production c...,Est,LOC,"Non-GPE locations, mountain ranges, bodies of water",68,71
+Le Ministre de l'Agriculture visite les provinces du Centre et de l'Est pour évaluer la production c...,Est,LOC_BURKINA,Lieu spécifique au Burkina Faso,68,71
+Le Ministre de l'Agriculture visite les provinces du Centre et de l'Est pour évaluer la production c...,Centre,LOC_BURKINA,Lieu spécifique au Burkina Faso,53,59
+Le Ministre de l'Agriculture visite les provinces du Centre et de l'Est pour évaluer la production c...,po,LOC_BURKINA,Lieu spécifique au Burkina Faso,72,74
+Une délégation de l'Union Africaine arrive à Ouagadougou pour des discussions diplomatiques...,Union,LOC,"Non-GPE locations, mountain ranges, bodies of water",20,25
+Une délégation de l'Union Africaine arrive à Ouagadougou pour des discussions diplomatiques...,Ouagadougou,LOC,"Non-GPE locations, mountain ranges, bodies of water",45,56
+Une délégation de l'Union Africaine arrive à Ouagadougou pour des discussions diplomatiques...,po,LOC_BURKINA,Lieu spécifique au Burkina Faso,57,59
+Une délégation de l'Union Africaine arrive à Ouagadougou pour des discussions diplomatiques...,Ouagadougou,LOC_BURKINA,Lieu spécifique au Burkina Faso,45,56
+Incident sécuritaire rapporté dans la province du Soum impliquant des groupes armés non identifiés...,Soum,LOC,"Non-GPE locations, mountain ranges, bodies of water",50,54
+Incident sécuritaire rapporté dans la province du Soum impliquant des groupes armés non identifiés...,Soum,LOC_BURKINA,Lieu spécifique au Burkina Faso,50,54
+Incident sécuritaire rapporté dans la province du Soum impliquant des groupes armés non identifiés...,po,LOC_BURKINA,Lieu spécifique au Burkina Faso,24,26
+"Attaque contre un convoi humanitaire près de Dori, dans la région du Sahel...",Dori,LOC,"Non-GPE locations, mountain ranges, bodies of water",45,49
+"Attaque contre un convoi humanitaire près de Dori, dans la région du Sahel...",Sahel,LOC,"Non-GPE locations, mountain ranges, bodies of water",69,74
+"Attaque contre un convoi humanitaire près de Dori, dans la région du Sahel...",Sahel,LOC_BURKINA,Lieu spécifique au Burkina Faso,69,74
+"Attaque contre un convoi humanitaire près de Dori, dans la région du Sahel...",Dori,LOC_BURKINA,Lieu spécifique au Burkina Faso,45,49
+"Violence signalée dans la province de l'Oudalan, zone frontalière avec le Niger...",province de l'Oudalan,LOC,"Non-GPE locations, mountain ranges, bodies of water",26,47
+"Violence signalée dans la province de l'Oudalan, zone frontalière avec le Niger...",Niger,LOC,"Non-GPE locations, mountain ranges, bodies of water",74,79
+"Violence signalée dans la province de l'Oudalan, zone frontalière avec le Niger...",Oudalan,LOC_BURKINA,Lieu spécifique au Burkina Faso,40,47
